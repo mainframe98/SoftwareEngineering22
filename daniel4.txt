@@ -1,1 +1,2 @@
-Dit is versie 1 van daniel4.txt
+Dit is versie 2 van daniel4.txt
+Dit is mijn verandering.
